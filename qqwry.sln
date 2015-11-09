@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qqwry", "qqwry\qqwry.vcproj", "{C748DCC9-E1E3-48F1-845A-E36A72E3D1BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ipwry", "ipwry\ipwry.vcproj", "{B23A31F1-D592-4B62-9E29-90ECB9CA9E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C748DCC9-E1E3-48F1-845A-E36A72E3D1BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C748DCC9-E1E3-48F1-845A-E36A72E3D1BA}.Debug|Win32.Build.0 = Debug|Win32
+		{C748DCC9-E1E3-48F1-845A-E36A72E3D1BA}.Release|Win32.ActiveCfg = Release|Win32
+		{C748DCC9-E1E3-48F1-845A-E36A72E3D1BA}.Release|Win32.Build.0 = Release|Win32
+		{B23A31F1-D592-4B62-9E29-90ECB9CA9E01}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B23A31F1-D592-4B62-9E29-90ECB9CA9E01}.Debug|Win32.Build.0 = Debug|Win32
+		{B23A31F1-D592-4B62-9E29-90ECB9CA9E01}.Release|Win32.ActiveCfg = Release|Win32
+		{B23A31F1-D592-4B62-9E29-90ECB9CA9E01}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
